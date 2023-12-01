@@ -1,0 +1,713 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Harvard Law School",
+          "2022GPA": "3.90",
+          "2022LSAT": 173,
+          "2010GPA": 3.91,
+          "2010LSAT": 174
+        },
+        "geometry": {
+          "coordinates": [
+            -71.11852076375983,
+            42.37794493008036
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Yale Law School",
+          "2022GPA": 3.92,
+          "2022LSAT": 173,
+          "2010GPA": 3.93,
+          "2010LSAT": 174
+        },
+        "geometry": {
+          "coordinates": [
+            -72.92795143380486,
+            41.31200056524236
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Columbia Law School ",
+          "2022GPA": 3.75,
+          "2022LSAT": 172,
+          "2010GPA": "3.80",
+          "2010LSAT": 174
+        },
+        "geometry": {
+          "coordinates": [
+            -73.96052004576875,
+            40.806911058074974
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Stanford Law School",
+          "2022GPA": 3.93,
+          "2022LSAT": 171,
+          "2010GPA": 3.84,
+          "2010LSAT": 173
+        },
+        "geometry": {
+          "coordinates": [
+            -122.16759978714123,
+            37.4240111832075
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University Of Chicago Law School",
+          "2022GPA": 3.89,
+          "2022LSAT": 171,
+          "2010GPA": 3.91,
+          "2010LSAT": 173
+        },
+        "geometry": {
+          "coordinates": [
+            -87.59892858598772,
+            41.7855042551335
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "New York Law School",
+          "2022GPA": 3.88,
+          "2022LSAT": 172,
+          "2010GPA": 3.79,
+          "2010LSAT": 173
+        },
+        "geometry": {
+          "coordinates": [
+            -74.00661212422033,
+            40.717791617935774
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Penn Law School",
+          "2022GPA": "3.90",
+          "2022LSAT": 172,
+          "2010GPA": "3.80",
+          "2010LSAT": 171
+        },
+        "geometry": {
+          "coordinates": [
+            -75.19297707615725,
+            39.953935434929804
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Duke University School of Law",
+          "2022GPA": 3.85,
+          "2022LSAT": 170,
+          "2010GPA": 3.79,
+          "2010LSAT": 172
+        },
+        "geometry": {
+          "coordinates": [
+            -78.9453025844185,
+            35.99991558614164
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Northwestern University School of Law",
+          "2022GPA": 3.89,
+          "2022LSAT": 171,
+          "2010GPA": 3.68,
+          "2010LSAT": 171
+        },
+        "geometry": {
+          "coordinates": [
+            -87.61737890617755,
+            41.896443189908155
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "U of Michigan-Ann Arbor Law",
+          "2022GPA": 3.83,
+          "2022LSAT": 171,
+          "2010GPA": 3.74,
+          "2010LSAT": 171
+        },
+        "geometry": {
+          "coordinates": [
+            -83.74012955974045,
+            42.27366719504164
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of Virginia School of Law",
+          "2022GPA": 3.94,
+          "2022LSAT": 171,
+          "2010GPA": 3.72,
+          "2010LSAT": 171
+        },
+        "geometry": {
+          "coordinates": [
+            -78.50944605256568,
+            38.053227913843955
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "UC Berkeley School of Law",
+          "2022GPA": 3.83,
+          "2022LSAT": 170,
+          "2010GPA": 3.81,
+          "2010LSAT": 171
+        },
+        "geometry": {
+          "coordinates": [
+            -122.2530861585347,
+            37.86977662189646
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "UCLA Law",
+          "2022GPA": "3.90",
+          "2022LSAT": 171,
+          "2010GPA": 3.79,
+          "2010LSAT": 170
+        },
+        "geometry": {
+          "coordinates": [
+            -118.43828244135943,
+            34.07292168629239
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Washington University Law ",
+          "2022GPA": 3.94,
+          "2022LSAT": 172,
+          "2010GPA": 3.53,
+          "2010LSAT": 168
+        },
+        "geometry": {
+          "coordinates": [
+            -90.31189641482646,
+            38.649530217044685
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Cornell Law School",
+          "2022GPA": 3.87,
+          "2022LSAT": 172,
+          "2010GPA": 3.71,
+          "2010LSAT": 170
+        },
+        "geometry": {
+          "coordinates": [
+            -76.48568911980784,
+            42.44403914795248
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Georgetown University Law Center",
+          "2022GPA": 3.86,
+          "2022LSAT": 171,
+          "2010GPA": 3.73,
+          "2010LSAT": 172,
+          "marker-color": "#000000",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        },
+        "geometry": {
+          "coordinates": [
+            -77.01250949960189,
+            38.898058599686095
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of Texas School of Law",
+          "2022GPA": 3.84,
+          "2022LSAT": 170,
+          "2010GPA": 3.77,
+          "2010LSAT": 167
+        },
+        "geometry": {
+          "coordinates": [
+            -97.73059264996539,
+            30.28853188886319
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Vanderbilt Law School",
+          "2022GPA": "3.90",
+          "2022LSAT": 170,
+          "2010GPA": 3.72,
+          "2010LSAT": 169
+        },
+        "geometry": {
+          "coordinates": [
+            -86.80011065935638,
+            36.147992406036266
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Boston University School Of Law ",
+          "2022GPA": 3.84,
+          "2022LSAT": 170,
+          "2010GPA": 3.67,
+          "2010LSAT": 168
+        },
+        "geometry": {
+          "coordinates": [
+            -71.10690645897465,
+            42.351001679512365
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "USC Gould School of Law",
+          "2022GPA": 3.87,
+          "2022LSAT": 168,
+          "2010GPA": 3.58,
+          "2010LSAT": 167
+        },
+        "geometry": {
+          "coordinates": [
+            -118.28432927081357,
+            34.0185359041503
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Emory University Law School",
+          "2022GPA": "3.80",
+          "2022LSAT": 168,
+          "2010GPA": 3.62,
+          "2010LSAT": 165
+        },
+        "geometry": {
+          "coordinates": [
+            -84.32386295388311,
+            33.7938876241906
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "The George Washington University Law School",
+          "2022GPA": 3.84,
+          "2022LSAT": 168,
+          "2010GPA": 3.66,
+          "2010LSAT": 165
+        },
+        "geometry": {
+          "coordinates": [
+            -77.04507496439855,
+            38.89914467442492
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Notre Dame Law School",
+          "2022GPA": 3.81,
+          "2022LSAT": 168,
+          "2010GPA": 3.61,
+          "2010LSAT": 165
+        },
+        "geometry": {
+          "coordinates": [
+            -86.23792699876041,
+            41.6987447180567
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Boston College Law School",
+          "2022GPA": 3.74,
+          "2022LSAT": 166,
+          "2010GPA": 3.63,
+          "2010LSAT": 168
+        },
+        "geometry": {
+          "coordinates": [
+            -71.19335832058248,
+            42.34184114741791
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BYU law school",
+          "2022GPA": 3.92,
+          "2022LSAT": 168,
+          "2010GPA": 3.75,
+          "2010LSAT": 168
+        },
+        "geometry": {
+          "coordinates": [
+            -111.64525416850334,
+            40.24936608353801
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Fordham Law School",
+          "2022GPA": 3.72,
+          "2022LSAT": 167,
+          "2010GPA": 3.64,
+          "2010LSAT": 168,
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "circle"
+        },
+        "geometry": {
+          "coordinates": [
+            -73.98476767973816,
+            40.77125750739677
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of Alabama Law School",
+          "2022GPA": 3.95,
+          "2022LSAT": 166,
+          "2010GPA": 3.53,
+          "2010LSAT": 166
+        },
+        "geometry": {
+          "coordinates": [
+            -87.53610955413072,
+            33.20384843596189
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "university of minnesota law school",
+          "2022GPA": 3.83,
+          "2022LSAT": 168,
+          "2010GPA": 3.53,
+          "2010LSAT": 169
+        },
+        "geometry": {
+          "coordinates": [
+            -93.2447051725547,
+            44.9732122512323
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "arizona state university law school",
+          "2022GPA": 3.85,
+          "2022LSAT": 167,
+          "2010GPA": 3.54,
+          "2010LSAT": 164
+        },
+        "geometry": {
+          "coordinates": [
+            -112.07180531753387,
+            33.4533308271056
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "George Mason University School of Law",
+          "2022GPA": 3.83,
+          "2022LSAT": 166,
+          "2010GPA": 3.49,
+          "2010LSAT": 164
+        },
+        "geometry": {
+          "coordinates": [
+            -77.10053127503909,
+            38.88508754355854
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of California, Irvine School of Law",
+          "2022GPA": 3.72,
+          "2022LSAT": 167,
+          "2010GPA": 3.64,
+          "2010LSAT": 167
+        },
+        "geometry": {
+          "coordinates": [
+            -117.83584423219821,
+            33.64705432869037
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of Florida Levin College of Law",
+          "2022GPA": "3.90",
+          "2022LSAT": 169,
+          "2010GPA": 3.64,
+          "2010LSAT": 164
+        },
+        "geometry": {
+          "coordinates": [
+            -82.35956120313706,
+            29.649729028755786
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of Georgia School of Law",
+          "2022GPA": 3.87,
+          "2022LSAT": 168,
+          "2010GPA": 3.55,
+          "2010LSAT": 166
+        },
+        "geometry": {
+          "coordinates": [
+            -83.37466411309627,
+            33.954842878559035
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of Washington School of Law",
+          "2022GPA": "3.70",
+          "2022LSAT": 164,
+          "2010GPA": 3.64,
+          "2010LSAT": 167
+        },
+        "geometry": {
+          "coordinates": [
+            -122.31078941201031,
+            47.659252027987606
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Washington & Lee School of Law",
+          "2022GPA": 3.66,
+          "2022LSAT": 164,
+          "2010GPA": 3.52,
+          "2010LSAT": 167
+        },
+        "geometry": {
+          "coordinates": [
+            -79.44392146478138,
+            37.791654986672555
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "William & Mary Law School",
+          "2022GPA": 3.75,
+          "2022LSAT": 165,
+          "2010GPA": 3.65,
+          "2010LSAT": 168
+        },
+        "geometry": {
+          "coordinates": [
+            -76.70499237304696,
+            37.26483369277422
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Indiana University Maurer School of Law",
+          "2022GPA": 3.81,
+          "2022LSAT": 154,
+          "2010GPA": 3.52,
+          "2010LSAT": 165
+        },
+        "geometry": {
+          "coordinates": [
+            -86.52649219478509,
+            39.16476206822284
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of california davis law school",
+          "2022GPA": "3.70",
+          "2022LSAT": 165,
+          "2010GPA": 3.67,
+          "2010LSAT": 165
+        },
+        "geometry": {
+          "coordinates": [
+            -121.74902828578044,
+            38.53710067199816
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "University of colorado boulder law",
+          "2022GPA": 3.72,
+          "2022LSAT": 164,
+          "2010GPA": 3.48,
+          "2010LSAT": 166
+        },
+        "geometry": {
+          "coordinates": [
+            -105.26233518207549,
+            40.001313640931556
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      }
+    ]
+  }

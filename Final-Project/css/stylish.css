@@ -1,0 +1,14 @@
+
+#map2010, #map2022 {
+    height: 500px;
+    width: 30%; /* Adjust the width as needed */
+    margin-right: 0px; /* Optional margin between maps for spacing */
+    float: left;
+}
+
+/* Clear the float to prevent layout issues */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
