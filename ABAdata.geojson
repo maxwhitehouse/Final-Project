@@ -331,7 +331,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Boston University School Of Law ",
+        "Name": "Boston University School of Law ",
         "2022GPA": 3.84,
         "2022LSAT": 170,
         "2010GPA": 3.67,
@@ -439,7 +439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "BYU law school",
+        "Name": "BYU Law School",
         "2022GPA": 3.92,
         "2022LSAT": 168,
         "2010GPA": 3.75,
@@ -496,7 +496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "university of minnesota law school",
+        "Name": "University of Minnesota Law School",
         "2022GPA": 3.83,
         "2022LSAT": 168,
         "2010GPA": 3.53,
@@ -514,7 +514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "arizona state university law school",
+        "Name": "Arizona State University Law School",
         "2022GPA": 3.85,
         "2022LSAT": 167,
         "2010GPA": 3.54,
@@ -676,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "University of california davis law school",
+        "Name": "University of California Davis Law School",
         "2022GPA": "3.70",
         "2022LSAT": 165,
         "2010GPA": 3.67,
@@ -694,7 +694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "University of colorado boulder law",
+        "Name": "University of Colorado Boulder Law",
         "2022GPA": 3.72,
         "2022LSAT": 164,
         "2010GPA": 3.48,
