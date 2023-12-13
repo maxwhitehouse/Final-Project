@@ -95,8 +95,8 @@
       "type": "Feature",
       "properties": {
         "Name": "New York Law School",
-        "2022GPA": 172,
-        "2022LSAT": 3.88,
+        "2022GPA": 3.88,
+        "2022LSAT": 172,
         "2010GPA": 3.79,
         "2010LSAT": 173
       },
